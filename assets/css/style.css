@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*added a header semantic element to the HTML and CSS*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -69,6 +70,7 @@ p {
     margin-left: 25px;
 }
 
+    /*replaced div and added main semantic element*/
 main {
     width: 75%;
     display: inline-block;
@@ -188,6 +190,8 @@ main {
     font-size: 36px;
 }
 
+
+    /*added a footer semantic element to the page*/
 footer {
     padding: 30px;
     clear: both;
@@ -195,6 +199,6 @@ footer {
     text-align: center;
 }
 
+/*changed footer from a h2 to an h3*/
 footer h3 {
     font-size: 20px;
-}
